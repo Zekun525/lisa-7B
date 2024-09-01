@@ -40,3 +40,5 @@
   "vision_tower": "openai/clip-vit-large-patch14",
   "vocab_size": 32004
 }
+[http]
+	postBuffer = 524288000
